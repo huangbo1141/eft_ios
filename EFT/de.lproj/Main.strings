@@ -1,0 +1,108 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "239-wc-CvC"; */
+"239-wc-CvC.text" = "Label";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "2UG-e1-yAY"; */
+"2UG-e1-yAY.text" = "Reviews";
+
+/* Class = "UILabel"; text = "Open today 8:00 AM - 8:00 PM"; ObjectID = "3fW-eU-b70"; */
+"3fW-eU-b70.text" = "Open today 8:00 AM - 8:00 PM";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "44R-ZZ-oV6"; */
+"44R-ZZ-oV6.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Saved Locations"; ObjectID = "4Xs-Lh-JS9"; */
+"4Xs-Lh-JS9.text" = "Saved Locations";
+
+/* Class = "UILabel"; text = "Add a New Location"; ObjectID = "4k2-AL-GVw"; */
+"4k2-AL-GVw.text" = "Add a New Location";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "5Xf-M3-Nxl"; */
+"5Xf-M3-Nxl.text" = "4.0";
+
+/* Class = "UILabel"; text = "New York, NY, 10001"; ObjectID = "5bc-IL-qwA"; */
+"5bc-IL-qwA.text" = "New York, NY, 10001";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "74e-zW-X8o"; */
+"74e-zW-X8o.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8he-pM-2KT"; */
+"8he-pM-2KT.text" = "Label";
+
+/* Class = "UILabel"; text = "(727)347-5682"; ObjectID = "8pZ-83-LXM"; */
+"8pZ-83-LXM.text" = "(727)347-5682";
+
+/* Class = "UILabel"; text = "Google place add page"; ObjectID = "A66-aK-mgb"; */
+"A66-aK-mgb.text" = "Google place add page";
+
+/* Class = "UILabel"; text = "Directions"; ObjectID = "CVU-OV-ugW"; */
+"CVU-OV-ugW.text" = "Directions";
+
+/* Class = "UILabel"; text = "(727)347-5682"; ObjectID = "DfS-wZ-KIO"; */
+"DfS-wZ-KIO.text" = "(727)347-5682";
+
+/* Class = "UILabel"; text = "6651 Central Ave, St Petersburg, FL 33710"; ObjectID = "EHh-kR-HoA"; */
+"EHh-kR-HoA.text" = "6651 Central Ave, St Petersburg, FL 33710";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GFy-OZ-S7t"; */
+"GFy-OZ-S7t.text" = "Label";
+
+/* Class = "UILabel"; text = "Post a Review"; ObjectID = "Hsm-v0-JWO"; */
+"Hsm-v0-JWO.text" = "Post a Review";
+
+/* Class = "UILabel"; text = "Coming soon"; ObjectID = "J5t-R2-HXS"; */
+"J5t-R2-HXS.text" = "Coming soon";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KjY-hI-YdQ"; */
+"KjY-hI-YdQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "LAG-EZ-zz7"; */
+"LAG-EZ-zz7.text" = "Call";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "LFb-a3-MPJ"; */
+"LFb-a3-MPJ.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "6651 Central Ave, St Petersburg, FL 33710"; ObjectID = "MsF-VI-dQS"; */
+"MsF-VI-dQS.text" = "6651 Central Ave, St Petersburg, FL 33710";
+
+/* Class = "UILabel"; text = "Open today 8:00 AM - 8:00 PM"; ObjectID = "O08-oG-np1"; */
+"O08-oG-np1.text" = "Open today 8:00 AM - 8:00 PM";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "QzE-b8-C2j"; */
+"QzE-b8-C2j.normalTitle" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "SEp-ZL-t4p"; */
+"SEp-ZL-t4p.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T5G-Kd-Wy4"; */
+"T5G-Kd-Wy4.text" = "Label";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "dp8-a2-JuP"; */
+"dp8-a2-JuP.text" = "Call";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "f88-k6-DHe"; */
+"f88-k6-DHe.text" = "Reviews";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fQW-5D-wqB"; */
+"fQW-5D-wqB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hLR-5T-Ddn"; */
+"hLR-5T-Ddn.text" = "Label";
+
+/* Class = "UILabel"; text = "Directions"; ObjectID = "nrm-sB-aME"; */
+"nrm-sB-aME.text" = "Directions";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qiF-ox-hil"; */
+"qiF-ox-hil.text" = "Label";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "sg1-Hq-PTV"; */
+"sg1-Hq-PTV.text" = "4.0";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "ueR-yH-QE4"; */
+"ueR-yH-QE4.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Use My Location"; ObjectID = "vaI-HT-DaP"; */
+"vaI-HT-DaP.text" = "Use My Location";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ybp-MC-60z"; */
+"ybp-MC-60z.text" = "Label";
